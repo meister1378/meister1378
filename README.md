@@ -15,21 +15,7 @@
 
 ## Tech Stack
 
-**Language & Framework**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
-**Vision & Model**
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv9-00FFFF?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/anomalib-PatchCore-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/Restormer-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/V--JEPA2-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white"/>
-
-**LLM & Serving**
-
-<img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square"/> <img src="https://img.shields.io/badge/TRL%20·%20DPO-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/LoRA-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-4B5563?style=flat-square"/>
-
-**Edge / NPU**
-
-<img src="https://img.shields.io/badge/RKNN-INT8%20Quantization-E11D48?style=flat-square"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 <br/>
 

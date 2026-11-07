@@ -6,7 +6,6 @@
 
 적은 자원으로 높은 품질을 — 세밀한 단위로 쪼개 차이를 찾는 AI 엔지니어입니다.
 
-<a href="https://meister1378.github.io"><img src="https://img.shields.io/badge/Portfolio-meister1378.github.io-111827?style=flat-square&logo=githubpages&logoColor=white"/></a>
 <a href="https://dacon.io"><img src="https://img.shields.io/badge/DACON-입상%204회%20·%20상위%205%25%20이내%2010회-0B5FFF?style=flat-square"/></a>
 
 </div>
@@ -22,8 +21,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meister1378&show_icons=true&hide_border=true&theme=default&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meister1378&layout=compact&hide_border=true&theme=default"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meister1378&theme=default"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meister1378&theme=default"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=meister1378&hide_border=true"/>
 </div>

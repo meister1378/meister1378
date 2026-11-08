@@ -1,24 +1,21 @@
-<div align="center">
+# 👋 안녕하세요, meister1378입니다.
 
-# meister1378
+**Computer Vision · Anomaly Detection · On-device AI**를 다루는 AI 엔지니어입니다.<br/>
+비지도 이상탐지, 실시간 영상 복원, 블랙박스 영상 분석 같은 비전 문제를 주로 풀고 있고,<br/>
+최근에는 GPU 모델을 NPU로 옮기며 INT8 양자화로 엣지에서도 빠르게 돌리는 작업을 하고 있습니다.
 
-**Computer Vision · Anomaly Detection · On-device AI**
+적은 자원으로 높은 품질을 — 세밀한 단위로 쪼개 차이를 찾는 것을 좋아합니다. 🔍✨
 
-적은 자원으로 높은 품질을 — 세밀한 단위로 쪼개 차이를 찾는 AI 엔지니어입니다.
+## 🔎 You can find me on :
 
+<a href="https://github.com/meister1378"><img src="https://img.shields.io/badge/GitHub-meister1378-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://dacon.io"><img src="https://img.shields.io/badge/DACON-입상%204회%20·%20상위%205%25%20이내%2010회-0B5FFF?style=flat-square"/></a>
 
-</div>
+## Personal stats:
 
+<details>
+<summary>Highlights / Proficiencies</summary>
 <br/>
-
-## Tech Stack
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-
-<br/>
-
-## GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meister1378&theme=default"/>
@@ -27,9 +24,17 @@
   <img src="https://streak-stats.demolab.com?user=meister1378&hide_border=true"/>
 </div>
 
-<br/>
+</details>
 
-## Featured Projects
+## 🥇 Primary technology stack
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+---
+
+<img width="100%" src="./profile-3d-contrib/profile-gitblock.svg"/>
+
+## 🚀 Featured Projects
 
 | 프로젝트 | 내용 | 핵심 기술 |
 |---|---|---|
@@ -42,7 +47,7 @@
 | [**Face Pseudonymization**](https://github.com/meister1378/Face-Pseudonymization) | 얼굴 가명처리 | MediaPipe, dlib |
 
 <details>
-<summary><b>그 외 실무 프로젝트</b></summary>
+<summary>그 외 실무 프로젝트</summary>
 <br/>
 
 | 기간 | 프로젝트 | 내용 |
@@ -54,9 +59,7 @@
 
 </details>
 
-<br/>
-
-## Awards — DACON
+## 🏆 Awards — DACON
 
 | 순위 | 대회 | 규모 |
 |:---:|---|---|
@@ -72,7 +75,7 @@
 | 41등 | 제3회 국민대학교 AI빅데이터 분석 경진대회 | 961팀 · 상위 5% |
 
 <details>
-<summary><b>전체 참가 이력 더보기</b></summary>
+<summary>전체 참가 이력 더보기</summary>
 <br/>
 
 | 순위 | 대회 | 규모 |
@@ -83,9 +86,3 @@
 | 57등 | 뉴스 기사 레이블 복구 해커톤 | 129팀 · 상위 44% |
 
 </details>
-
-<br/>
-
-<div align="center">
-<sub>코드와 실험 설정은 각 저장소에 공개되어 있습니다.</sub>
-</div>

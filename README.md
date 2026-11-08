@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=3000&pause=100000&color=7EE787&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+meister1378%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="안녕하세요! meister1378입니다!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=3000&pause=100000&color=3B82F6&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EB%AA%85%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="안녕하세요! 백명준입니다!"/>
 </h1>
 
 **Computer Vision · Anomaly Detection · On-device AI**를 다루는 AI 엔지니어입니다.<br/>
@@ -10,23 +10,9 @@
 
 ## 🔎 You can find me on :
 
-<a href="https://github.com/meister1378"><img src="https://img.shields.io/badge/GitHub-meister1378-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://dacon.io"><img src="https://img.shields.io/badge/DACON-입상%204회%20·%20상위%205%25%20이내%2010회-0B5FFF?style=flat-square"/></a>
-
-## Personal stats:
-
-<details>
-<summary>Highlights / Proficiencies</summary>
-<br/>
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meister1378&theme=default"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meister1378&theme=default"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=meister1378&hide_border=true"/>
-</div>
-
-</details>
+<a href="https://meister1378-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-meister1378--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="mailto:meister1378@gmail.com"><img src="https://img.shields.io/badge/meister1378@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://dacon.io/myprofile/450101/home"><img src="https://img.shields.io/badge/DACON-입상%204회%20·%20상위%205%25%20이내%2010회-0B5FFF?style=flat-square"/></a>
 
 ## 🥇 Primary technology stack
 

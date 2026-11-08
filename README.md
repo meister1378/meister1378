@@ -27,9 +27,9 @@
 | 프로젝트 | 내용 | 핵심 기술 |
 |---|---|---|
 | [**반도체 소자 이상탐지**](https://github.com/meister1378/Semiconductor-Unsupervised-Anomaly-Detection) | 결함 샘플이 거의 없는 공정에서 비지도 학습으로 이상 소자 탐지 | PatchCore, Isolation Forest |
-| [**실시간 열화상 복원 (UPFN)**](https://github.com/meister1378/UPFN) | 노이즈·모션 블러·조도 열화를 단일 추론으로 복원 + 렌즈 왜곡 보정 (4.26M params, 66.9 FPS) | Restormer, FiLM Prompt Conditioning |
+| [**실시간 열화상 복원 (UPFN)**](https://github.com/meister1378/UPFN) | 노이즈·모션 블러·조도 열화를 단일 추론으로 복원 + 렌즈 왜곡 보정 | Restormer, FiLM Prompt Conditioning |
 | [**블랙박스 영상 사고 분석**](https://github.com/meister1378/Car-Accident-Detection) | 재촬영 탐지 → 충돌·회피 분석 → 조향·가감속 탐지 3단계 파이프라인 | MViT, ConvNeXt, V-JEPA2 |
-| [**이미지·영상 딥페이크 탐지**](https://github.com/meister1378/Hecto_DeepFake_Detection) | 헥토 채용 AI 경진대회 — 생성·조작 흔적 탐지, 채용 인재풀 등록 | Computer Vision |
+| [**이미지·영상 딥페이크 탐지**](https://github.com/meister1378/Hecto_DeepFake_Detection) | 이미지와 영상에 남은 생성·조작 흔적 탐지 | Computer Vision |
 | [**OCR 모델 세대 교체**](https://github.com/meister1378/kocr-project) | 3단계 인식 파이프라인을 LoRA 파인튜닝 VL 모델 하나로 교체 | VL Model, LoRA |
 | [**Ontology Graph RAG**](https://github.com/meister1378/ontology-graph-RAG) | 지식 그래프 기반 RAG 모델 | Knowledge Graph, RAG |
 | [**Face Pseudonymization**](https://github.com/meister1378/Face-Pseudonymization) | 얼굴 가명처리 | MediaPipe, dlib |

@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=3000&pause=100000&color=3B82F6&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EB%AA%85%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="안녕하세요! 백명준입니다!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=1&pause=100000&color=3B82F6&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EB%AA%85%EC%A4%80%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="안녕하세요! 백명준입니다!"/>
 </h1>
 
 **Computer Vision · Anomaly Detection · On-device AI**를 다루는 AI 엔지니어입니다.<br/>
@@ -27,7 +27,7 @@
 | 프로젝트 | 내용 | 핵심 기술 |
 |---|---|---|
 | [**반도체 소자 이상탐지**](https://github.com/meister1378/Semiconductor-Unsupervised-Anomaly-Detection) | 결함 샘플이 거의 없는 공정에서 비지도 학습으로 이상 소자 탐지 | PatchCore, Isolation Forest |
-| [**실시간 열화상 복원**](https://github.com/meister1378/Realtime-Thermal-Restoration) | 노이즈·모션 블러·조도 열화를 단일 추론으로 복원 + 렌즈 왜곡 보정 (4.26M params, 66.9 FPS) | Restormer, Knowledge Distillation |
+| [**실시간 열화상 복원 (UPFN)**](https://github.com/meister1378/UPFN) | 노이즈·모션 블러·조도 열화를 단일 추론으로 복원 + 렌즈 왜곡 보정 (4.26M params, 66.9 FPS) | Restormer, FiLM Prompt Conditioning |
 | [**블랙박스 영상 사고 분석**](https://github.com/meister1378/Car-Accident-Detection) | 재촬영 탐지 → 충돌·회피 분석 → 조향·가감속 탐지 3단계 파이프라인 | MViT, ConvNeXt, V-JEPA2 |
 | [**이미지·영상 딥페이크 탐지**](https://github.com/meister1378/Hecto_DeepFake_Detection) | 헥토 채용 AI 경진대회 — 생성·조작 흔적 탐지, 채용 인재풀 등록 | Computer Vision |
 | [**OCR 모델 세대 교체**](https://github.com/meister1378/kocr-project) | 3단계 인식 파이프라인을 LoRA 파인튜닝 VL 모델 하나로 교체 | VL Model, LoRA |

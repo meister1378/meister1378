@@ -1,4 +1,6 @@
-# 👋 안녕하세요, meister1378입니다.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=40&duration=3000&pause=100000&color=7EE787&center=true&vCenter=true&repeat=false&width=700&height=70&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+meister1378%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="안녕하세요! meister1378입니다!"/>
+</h1>
 
 **Computer Vision · Anomaly Detection · On-device AI**를 다루는 AI 엔지니어입니다.<br/>
 비지도 이상탐지, 실시간 영상 복원, 블랙박스 영상 분석 같은 비전 문제를 주로 풀고 있고,<br/>

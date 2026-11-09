@@ -3,10 +3,6 @@
 </h1>
 
 **Computer Vision · Anomaly Detection · On-device AI**를 다루는 AI 엔지니어입니다.<br/>
-비지도 이상탐지, 실시간 영상 복원, 블랙박스 영상 분석 같은 비전 문제를 주로 풀고 있고,<br/>
-최근에는 GPU 모델을 NPU로 옮기며 INT8 양자화로 엣지에서도 빠르게 돌리는 작업을 하고 있습니다.
-
-적은 자원으로 높은 품질을 — 세밀한 단위로 쪼개 차이를 찾는 것을 좋아합니다. 🔍✨
 
 ## 🔎 You can find me on :
 

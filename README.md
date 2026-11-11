@@ -30,19 +30,6 @@
 | [**Ontology Graph RAG**](https://github.com/meister1378/ontology-graph-RAG) | 지식 그래프 기반 RAG 모델 | Knowledge Graph, RAG |
 | [**Face Pseudonymization**](https://github.com/meister1378/Face-Pseudonymization) | 얼굴 가명처리 | MediaPipe, dlib |
 
-<details>
-<summary>그 외 실무 프로젝트</summary>
-<br/>
-
-| 기간 | 프로젝트 | 내용 |
-|---|---|---|
-| 2026.08 | GPU → NPU 이식 + INT8 양자화 | 독립 코어 워커 풀 재설계로 9.2 → 23.0 fps, 지연 81.4ms → 31.4ms |
-| 2025.08 – 2025.12 | 수질 이상탐지 파이프라인 | 결측치 보간 → T-GAT/D-GAT 이상 탐지 → LLM 자동 보고서 |
-| 2025.02 – 2025.05 | DPO 기반 LLM 강화학습 | Gemma2로 선호 데이터 자동 생성, FSDP 학습, vLLM 서빙 |
-| 2024.09 – 2024.10 | 혈동태 ROI 추출 | 2단계 YOLOv9 앙상블 + OpenCV 후처리 |
-
-</details>
-
 ## 🏆 Awards — DACON
 
 | 순위 | 대회 | 규모 |

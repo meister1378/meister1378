@@ -6,7 +6,7 @@
 
 ## 🔎 You can find me on :
 
-<a href="https://meister1378-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-meister1378--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://meister1378.github.io"><img src="https://img.shields.io/badge/Portfolio-meister1378.github.io-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:meister1378@gmail.com"><img src="https://img.shields.io/badge/meister1378@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://dacon.io/myprofile/450101/home"><img src="https://img.shields.io/badge/DACON-입상%204회%20·%20상위%205%25%20이내%2010회-0B5FFF?style=flat-square"/></a>
 

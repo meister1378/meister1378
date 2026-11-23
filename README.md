@@ -8,7 +8,7 @@
 
 <a href="https://meister1378.github.io"><img src="https://img.shields.io/badge/Portfolio-meister1378.github.io-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
 <a href="mailto:meister1378@gmail.com"><img src="https://img.shields.io/badge/meister1378@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://dacon.io/myprofile/450101/home"><img src="https://img.shields.io/badge/DACON-입상%204회%20·%20상위%205%25%20이내%2010회-0B5FFF?style=flat-square"/></a>
+<a href="https://dacon.io/myprofile/450101/home"><img src="https://img.shields.io/badge/DACON-참여%2014회%20·%20수상%204회-0B5FFF?style=flat-square"/></a>
 
 ## 🥇 Primary technology stack
 
@@ -30,14 +30,16 @@
 | [**Ontology Graph RAG**](https://github.com/meister1378/ontology-graph-RAG) | 지식 그래프 기반 RAG 모델 | Knowledge Graph, RAG |
 | [**Face Pseudonymization**](https://github.com/meister1378/Face-Pseudonymization) | 얼굴 가명처리 | MediaPipe, dlib |
 
-## 🏆 Awards — DACON
+## 📋 DACON 참여 이력
+
+🏆 표시는 수상한 대회입니다.
 
 | 순위 | 대회 | 규모 |
 |:---:|---|---|
-| **2등** | 서울시 평균 기온 예측 AI 해커톤 | 624팀 · 상위 0.3% |
-| **3등** | 반도체 소자 이상 탐지 AI 경진대회 | 383팀 · 상위 0.7% |
-| **4등** | SW중심대학 공동 AI 경진대회 (예선) | 192팀 · 상위 2% |
-| **4등** | 코드 유사성 판단 시즌2 AI 경진대회 | 133팀 · 상위 3% |
+| 🏆 **2등** | 서울시 평균 기온 예측 AI 해커톤 | 624팀 · 상위 0.3% |
+| 🏆 **3등** | 반도체 소자 이상 탐지 AI 경진대회 | 383팀 · 상위 0.7% |
+| 🏆 **4등** | SW중심대학 공동 AI 경진대회 (예선) | 192팀 · 상위 2% |
+| 🏆 **4등** | 코드 유사성 판단 시즌2 AI 경진대회 | 133팀 · 상위 3% |
 | 7등 | 2024 생명연구자원 AI활용 경진대회 | 940팀 · 상위 0.7% |
 | 8등 | 선물 배송 경로 최적화 경진대회 | 241팀 · 상위 3% |
 | 30등 | 대구 교통사고 피해 예측 AI 경진대회 | 942팀 · 상위 3% |
@@ -46,7 +48,7 @@
 | 41등 | 제3회 국민대학교 AI빅데이터 분석 경진대회 | 961팀 · 상위 5% |
 
 <details>
-<summary>전체 참가 이력 더보기</summary>
+<summary>나머지 참여 이력 더보기</summary>
 <br/>
 
 | 순위 | 대회 | 규모 |
